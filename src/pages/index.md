@@ -30,10 +30,11 @@ sections:
     is_numbered: true
     grid_items:
       - title: Language Courses
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Canada is the ideal place to learn English and/or French. There's a
+          lot to like about this lovely and accommodating country, and there are
+          a plethora of English education programs to choose from. You might
+          never want to leave once you've been there!
       - title: Colleges & University
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
