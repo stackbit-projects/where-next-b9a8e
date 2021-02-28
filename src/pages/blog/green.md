@@ -1,6 +1,6 @@
 ---
 title: Calgary
-subtitle: Stunning Rock Mountians
+subtitle: Enjoy the Canadian Rockies
 excerpt: >-
   Calgary, a cosmopolitan city in Alberta with several skyscrapers, owes its
   rapid growth to being the center of Canada's oil industry. Calgary is one of
