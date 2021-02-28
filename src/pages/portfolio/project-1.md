@@ -5,7 +5,7 @@ date: '2019-05-10'
 thumb_image: images/juan-rojas-XfZPhwf_BtI-unsplash.jpg
 thumb_image_alt: all inclusive vacation
 image: images/emily-bauman-fnAN6OFXR9A-unsplash.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: woman drinking coconut water
 seo:
   title: Project Title 1
   description: This is the project 1 description
