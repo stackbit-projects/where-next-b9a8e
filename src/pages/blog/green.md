@@ -2,15 +2,12 @@
 title: Calgary
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: >-
-  This mountain range over 4800 km long, crosses the territory of theOne of the
-  most beautiful destinations in all of North America…  Banff National Park,
-  Alberta, Canada. Moraine lake. There you have an iconic image of the beauty of
-  the country and, perhaps, of all destinations in North America; a green lake
-  with the valley of the ten peaks in the background.  The beautiful color of
-  the lake is due to the fact that it is fed by a glacier, the light, when
-  hitting the lake, reflects the wonderful color of the rocks. Giving rise to
-  the unique color of Lake Moraine. Another interesting thing is that in the
-  summer the day goes on until 11 pm.
+  Calgary, a cosmopolitan city in Alberta with several skyscrapers, owes its
+  rapid growth to being the center of Canada's oil industry. Calgary is one of
+  the richest, cleanest, and livable cities in Canada. Calgary residents, like
+  Edmontonians, benefit from a lower cost of living, a healthy employment
+  market, and low taxes. There are no federal income taxes, provincial general
+  capital taxes, or local sales taxes in Alberta.
 date: '2018-01-11'
 thumb_image: images/patrick-mcvey--rjc29yPMRk-unsplash.jpg
 thumb_image_alt: A white gamepad on a green background
