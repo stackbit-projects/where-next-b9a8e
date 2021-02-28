@@ -45,8 +45,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-All of these characteristics of Toronto entice foreign students to come and study here.
-Studying in Toronto is a wonderful choice for those interested in widening their horizons outside of Brazil: the city is incredibly welcoming to newcomers, the courses are less costly, the educational institutions are among the finest in the world, the city is stunning, and there is always the chance to fly.
+Vancouver is a city that enchants for its natural beauty, the abundance of fauna and flora. Also for the urban center, with a modern city, an example in sustainability, excellent quality of life. The mild climate and the enchanting natural beauty attract more and more tourists and residents to Vancouver, on the west coast of Canada.
 
 Vancouver is commonly regarded as one of the most desirable cities in the world. With a moderate climate and four seasons, it is nestled between the ocean and the mountains. Tourists from all over the world flock to Vancouver for its stunning natural scenery, lively nightlife, world-class shopping, fantastic restaurant scene, and international cultural events.
 
