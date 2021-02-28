@@ -78,7 +78,7 @@ sections:
           Study in a Canadian College gave me the opportunity to immigrate to
           Canada.
       - author: Wallace Gomes
-        avatar: images/deegan_wallace.jpg
+        avatar: images/gatsby-icon.png
         avatar_alt: Deegan Wallace's photo
         content: >-
           Montreal is the most amazing city I have ever been. I had the
