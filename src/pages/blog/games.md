@@ -3,7 +3,7 @@ title: Victoria
 date: '2018-01-09'
 thumb_image: images/pexels-vladislav-vasnetsov-1485452.jpg
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/reid-naaykens-jgO1rPhqdEw-unsplash.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: What are some of the best designed video games
