@@ -81,8 +81,9 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Montreal is the most amazing city I have ever been. I had the
+          opportunity to learn english and french at the same time. Hope to come
+          back soon!
   - section_id: latest-posts
     type: section_posts
     title: Study in Canada
