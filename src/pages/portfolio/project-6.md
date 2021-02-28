@@ -1,6 +1,6 @@
 ---
 title: Group Vacations
-subtitle: Optional Project Subtitle
+subtitle: Best of
 date: '2018-12-18'
 thumb_image: images/pexels-roberto-nickson-2647973.jpg
 thumb_image_alt: group girls
