@@ -39,6 +39,14 @@ seo:
       value: images/13.jpg
       relativeUrl: true
 template: post
+excerpt: >-
+  Located on the southern banks of the Ottawa River in the province of Ontario,
+  Ottawa is the capital of Canada and one of the largest cities in the country.
+  Close to the border with the United States, Ottawa is one of the best Canadian
+  cities to live in, being a modern destination, with great educational
+  institutions and a high quality of life. It is not by chance that the city
+  attracts many tourists and foreign visitors, many of whom are interested in
+  establishing residence there.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.
