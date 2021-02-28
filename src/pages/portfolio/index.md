@@ -1,6 +1,9 @@
 ---
 title: Travel
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: >-
+  Where do you want to travel now? Travel with Where Next, the best option in
+  travel packages, cruises, all inclusive vacations, hotels, airline tickes and
+  more. Personalized customer service on your next trip
 layout_style: mosaic
 seo:
   title: Portfolio
