@@ -2,16 +2,15 @@
 title: Calgary
 subtitle: 'Apparently, green is my favorite color.'
 excerpt: >-
-  This mountain range over 4800 km long, crosses the territory of the USA and
-  Canada. But, one of her special points is one of the most beautiful
-  destinations in all of North America…  Banff National Park, Alberta, Canada.
-  Moraine lake. There you have an iconic image of the beauty of the country and,
-  perhaps, of all destinations in North America; a green lake with the valley of
-  the ten peaks in the background.  The beautiful color of the lake is due to
-  the fact that it is fed by a glacier, the light, when hitting the lake,
-  reflects the wonderful color of the rocks. Giving rise to the unique color of
-  Lake Moraine. Another interesting thing is that in the summer the day goes on
-  until 11 pm.
+  This mountain range over 4800 km long, crosses the territory of theOne of her
+  special points is one of the most beautiful destinations in all of North
+  America…  Banff National Park, Alberta, Canada. Moraine lake. There you have
+  an iconic image of the beauty of the country and, perhaps, of all destinations
+  in North America; a green lake with the valley of the ten peaks in the
+  background.  The beautiful color of the lake is due to the fact that it is fed
+  by a glacier, the light, when hitting the lake, reflects the wonderful color
+  of the rocks. Giving rise to the unique color of Lake Moraine. Another
+  interesting thing is that in the summer the day goes on until 11 pm.
 date: '2018-01-11'
 thumb_image: images/pexels-jaime-reimer-2662116.jpg
 thumb_image_alt: A white gamepad on a green background
