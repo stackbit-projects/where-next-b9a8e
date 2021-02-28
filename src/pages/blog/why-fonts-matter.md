@@ -38,6 +38,13 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 template: post
+subtitle: >-
+  Like every major destination city in North America, Toronto has several types
+  of itinerary. Museums (both as an incredible natural history museum and even a
+  hockey museum), zoos and aquariums. One that deserves mention is the CN tower.
+  Especially for those who are not afraid of heights or want to face that fear.
+  With a height of over 500 m, it is possible not only to walk outside the
+  tower, but also to hang from it.
 ---
 
 **Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
