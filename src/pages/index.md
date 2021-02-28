@@ -36,10 +36,14 @@ sections:
           a plethora of English education programs to choose from. You might
           never want to leave once you've been there!
       - title: Colleges & University
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Thinking about going to college abroad? Taking a college in Canada is
+          a great way to settle in the country. In general, Canadian Colleges
+          aim for the most practical education for those looking to be ready to
+          work after completing their studies. College study programs offer
+          professional training in Canada, primarily focused on career
+          development. Studying at a Canadian college you are allowed to work
+          legally during the studies.
       - title: Courses & Certifications
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
