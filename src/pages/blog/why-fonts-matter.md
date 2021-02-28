@@ -6,7 +6,7 @@ excerpt: >-
   placerat lorem.
 date: '2019-03-27'
 thumb_image: images/pexels-snapwire-6998.jpg
-thumb_image_alt: A pile of books on the table
+thumb_image_alt: Toronto
 image: images/12.jpg
 image_alt: A pile of books on the table
 seo:
