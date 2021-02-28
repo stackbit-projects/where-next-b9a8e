@@ -1,8 +1,6 @@
 ---
 title: Quebec
-subtitle: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”.
+subtitle: A UNESCO World Heritage Site ←→
 excerpt: >-
   Destinations in Quebec are a little bit closer to historic tourism The city is
   wonderful, possibly one of the most charming in North America. In the city
