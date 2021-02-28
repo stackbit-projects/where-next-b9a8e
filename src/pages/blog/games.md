@@ -39,6 +39,7 @@ excerpt: >-
   British Columbia, and was named after Queen Victoria of the United Kingdom.
   The city has an extensive heritage from the colony, with the British influence
   on architecture, public spaces and culture visible.
+subtitle: The Garden City
 ---
 Victoria, the capital of British Columbia, sits on the rugged south end of Vancouver Island. With abundant parks, it is known for its outdoor activities. Located about 100km from Vancouver, Victoria is the capital of the province of British Columbia and was named after Queen Victoria of the United Kingdom. The city has an extensive heritage from the colony, with the British influence on architecture, public spaces, and culture visible.
 
