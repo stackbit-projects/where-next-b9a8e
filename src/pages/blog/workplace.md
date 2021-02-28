@@ -44,6 +44,7 @@ seo:
       value: images/11.jpg
       relativeUrl: true
 template: post
+subtitle: The Hollywood North
 ---
 Vancouver is a city that enchants for its natural beauty, the abundance of fauna and flora. Also for the urban center, with a modern city, an example in sustainability, excellent quality of life. The mild climate and the enchanting natural beauty attract more and more tourists and residents to Vancouver, on the west coast of Canada.
 
