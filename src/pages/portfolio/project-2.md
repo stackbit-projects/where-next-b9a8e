@@ -1,6 +1,6 @@
 ---
 title: Airline Tickets
-subtitle: Optional Project Subtitle
+subtitle: Airlines tickets with the best price.
 date: '2019-04-30'
 thumb_image: images/simon-maage-C9dhUVP-o6w-unsplash.jpg
 thumb_image_alt: An orange on a blue background
