@@ -4,7 +4,7 @@ subtitle: All Inclusive Vacations
 date: '2019-05-10'
 thumb_image: images/juan-rojas-XfZPhwf_BtI-unsplash.jpg
 thumb_image_alt: all inclusive vacation
-image: images/1.jpg
+image: images/emily-bauman-fnAN6OFXR9A-unsplash.jpg
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
