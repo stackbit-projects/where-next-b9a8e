@@ -2,7 +2,7 @@
 title: Airline Tickets
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/pexels-andrea-piacquadio-3769138.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
