@@ -1,8 +1,11 @@
 ---
 title: Montreal
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
+  Montreal's destinations seem to be a summary of those present in large cities
+  in North America. Several buildings that prove human ingenuity, technology and
+  also that historic mark present in old buildings on the site. Museums,
+  restaurants, churches, park and several historic buildings. There is a lot to
+  talk and see in Montreal.
 date: '2019-03-10'
 thumb_image: images/pexels-nancy-bourque-2244823.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
