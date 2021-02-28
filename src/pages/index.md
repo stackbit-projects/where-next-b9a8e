@@ -5,8 +5,20 @@ sections:
   - section_id: hero
     type: section_hero
     title: Where Next
-    content: |
-      **STUDY & TRAVEL ABROAD**
+    content: >
+      ##### We are an agency formed by a team that has the experience,
+      experience, and knowledge about studying abroad. We do a complete
+      consultancy for our clients, understanding their objectives and presenting
+      a personalized service for each one of them. The schools we work with are
+      chosen after a rigorous selection and with good student evaluations,
+      always seeking recognition for the quality of the courses we offer and
+      thus guaranteeing satisfaction and the investment made. Our customers will
+      be able to count on all the support and dedication of our team, from the
+      choice of the course, relevant information, and accompaniment during the
+      entire period of the exchange or leisure trip. 
+
+
+      ## ***Welcome to your next trip!***
     actions:
       - label: Let's talk
         url: /contact
