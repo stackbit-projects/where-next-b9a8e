@@ -1,9 +1,6 @@
 ---
 title: And More...
-excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+excerpt: Looking for another city or destination? Reach us out to learn more!
 date: '2016-08-22'
 thumb_image: images/pexels-andre-furtado-2916828.jpg
 image: images/9.jpg
