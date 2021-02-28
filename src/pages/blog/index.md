@@ -1,5 +1,5 @@
 ---
-title: Study
+title: Study in Canada
 subtitle: "Known for his hospitality, the Canadian is used to living in the middle of a cultural mix due to the great openness to immigrants. Toronto and Vancouver are the most popular destinations for exchange students. Montréal offers the chance to study both French and English, or even spend a season combining the two. We offer language courses, high school, graduation and others.\_Contact us for a quote!"
 hide_title: false
 col_number: three
