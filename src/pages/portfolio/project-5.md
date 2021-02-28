@@ -1,6 +1,6 @@
 ---
 title: Tours
-subtitle: Optional Project Subtitle
+subtitle: Find the perfect tour for your trip.
 date: '2019-01-05'
 thumb_image: images/pexels-te-lensfix-1371360.jpg
 thumb_image_alt: woman in a boat
