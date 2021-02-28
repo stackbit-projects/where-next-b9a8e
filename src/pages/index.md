@@ -70,7 +70,7 @@ sections:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
-        content: I ahd an amazing time during my
+        content: I had an amazing time during my high school program.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
