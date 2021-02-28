@@ -4,7 +4,7 @@ subtitle: Find the car rental best rates.
 date: '2018-01-15'
 thumb_image: images/pexels-pixabay-164634.jpg
 thumb_image_alt: cars
-image: images/7.jpg
+image: images/pexels-stephan-louis-5330287.jpg
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
