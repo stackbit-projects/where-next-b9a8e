@@ -26,7 +26,9 @@ sections:
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      We do a complete consultancy for our clients, understanding their
+      objectives and presenting a personalized service for each one of them.
     col_number: two
     is_numbered: true
     grid_items:
