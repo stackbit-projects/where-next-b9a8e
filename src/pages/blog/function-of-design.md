@@ -1,6 +1,6 @@
 ---
 title: Ottawa
-subtitle: 'A interesting tale about function of design '
+subtitle: Capital of Canada
 date: '2018-01-15'
 thumb_image: images/chelsey-faucher-x0rHqRbBHbM-unsplash.jpg
 thumb_image_alt: Library shelves
