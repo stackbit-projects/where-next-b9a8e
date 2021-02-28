@@ -19,7 +19,6 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Study & Travel Abroad
-    subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
