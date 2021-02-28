@@ -67,7 +67,7 @@ sections:
     subtitle: Our students & travellers testimonial.
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Isabella Rezende
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: "I had an amazing time during my high school program. I met a lot of great people,\_ learn a new language, and enjoyed the Canadian culture at most."
