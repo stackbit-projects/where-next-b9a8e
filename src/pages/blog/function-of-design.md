@@ -1,9 +1,6 @@
 ---
 title: Ottawa
 subtitle: 'A interesting tale about function of design '
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
 date: '2018-01-15'
 thumb_image: images/chelsey-faucher-x0rHqRbBHbM-unsplash.jpg
 thumb_image_alt: Library shelves
