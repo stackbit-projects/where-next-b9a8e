@@ -2,7 +2,7 @@
 title: About Us
 subtitle: Travel and Study with Where Next!
 image: images/capturing-the-human-heart-TrhLCn1abMU-unsplash.jpg
-image_alt: A man taking a picture
+image_alt: world globe
 seo:
   title: About Us
   description: This is the about us page
