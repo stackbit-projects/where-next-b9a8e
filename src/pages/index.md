@@ -7,10 +7,10 @@ sections:
     title: Where Next
     content: >
       ##### We are an agency formed by a team that has the experience,
-      experience, and knowledge about studying and traveling abroad. 
+      experience, and knowledge about studying and traveling abroad.
 
 
-      ### Welcome to your next trip!
+      ### *Welcome to your next trip!*
     actions:
       - label: Let's talk
         url: /contact
