@@ -3,7 +3,7 @@ title: And More...
 excerpt: Looking for another city or destination? Reach us out to learn more!
 date: '2016-08-22'
 thumb_image: images/pexels-andre-furtado-1267369.jpg
-image: images/9.jpg
+image: images/pexels-andre-furtado-2960861.jpg
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
