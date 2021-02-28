@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/simon-maage-C9dhUVP-o6w-unsplash.jpg
 thumb_image_alt: An orange on a blue background
-image: images/enthusiastic-maple.jpg
+image: images/modern-zucchini.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
