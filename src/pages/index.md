@@ -45,10 +45,10 @@ sections:
           development. Studying at a Canadian college you are allowed to work
           legally during the studies.
       - title: Courses & Certifications
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Canada Vocational Training Courses offer training that is both
+          practical and career-oriented. These professional courses are a very
+          interesting choice for those who already have a good level of English.
       - title: Insurance
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
