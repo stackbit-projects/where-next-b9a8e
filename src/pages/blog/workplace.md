@@ -5,7 +5,7 @@ excerpt: >-
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2019-03-24'
 thumb_image: images/pexels-adi-kavazovic-2382868.jpg
-thumb_image_alt: Vanc
+thumb_image_alt: Vancouver
 image: images/11.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
