@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/pexels-roberto-nickson-2647973.jpg
 thumb_image_alt: woman in boat
-image: images/6.jpg
+image: images/pexels-asad-photo-maldives-169196.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
