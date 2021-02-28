@@ -3,7 +3,7 @@ title: Group Vacations
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/pexels-roberto-nickson-2647973.jpg
-thumb_image_alt: woman in boat
+thumb_image_alt: group girls
 image: images/pexels-asad-photo-maldives-169196.jpg
 image_alt: A handheld game console on a yellow background
 seo:
