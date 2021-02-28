@@ -1,8 +1,11 @@
 ---
 title: Vancouver
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  Vancouver is a city that enchants for its natural beauty, abundance of fauna
+  and flora. Also for the urban center, with a modern city, example in
+  sustainability, excellent quality of life. The mild climate and the enchanting
+  natural beauty attract more and more tourists and residents to Vancouver, on
+  the west coast of Canada.
 date: '2019-03-24'
 thumb_image: images/pexels-adi-kavazovic-2382868.jpg
 thumb_image_alt: Vancouver
