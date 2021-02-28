@@ -1,6 +1,6 @@
 ---
 title: Calgary
-subtitle: 'Apparently, green is my favorite color.'
+subtitle: Stunning Rock Mountians
 excerpt: >-
   Calgary, a cosmopolitan city in Alberta with several skyscrapers, owes its
   rapid growth to being the center of Canada's oil industry. Calgary is one of
