@@ -4,9 +4,12 @@ subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
 excerpt: >-
-  Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu
-  interdum placerat placerat arcu commodo lobortis adipiscing semper ornare
-  pellentesque.
+  Destinations in Quebec are a little bit closer to historic tourism The city is
+  wonderful, possibly one of the most charming in North America. In the city
+  several points stand out, for example, the museum of civilization (museum of
+  modern art), the incredible aquarium of Quebec (polar bears, penguins and a
+  catwalk under the water), the Châteu Frontenac (a hotel castle) and the
+  Montmorency Falls..
 date: '2017-03-26'
 thumb_image: images/royal-pluto.jpg
 thumb_image_alt: Modern white table
