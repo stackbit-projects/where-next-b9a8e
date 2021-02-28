@@ -32,6 +32,13 @@ seo:
       value: images/6.jpg
       relativeUrl: true
 template: post
+excerpt: >-
+  Victoria, the capital of British Columbia, sits on the rugged south end of
+  Vancouver Island. With abundant parks, it is known for its outdoor activities.
+  Located about 100km from Vancouver, Victoria is the capital of the province of
+  British Columbia, and was named after Queen Victoria of the United Kingdom.
+  The city has an extensive heritage from the colony, with the British influence
+  on architecture, public spaces and culture visible.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum nisi quis eleifend quam adipiscing vitae proin. Fermentum dui faucibus in ornare quam viverra orci sagittis. Nunc mattis enim ut tellus elementum sagittis. Sed nisi lacus sed viverra tellus. Lectus arcu bibendum at varius vel. Lacus laoreet non curabitur gravida arcu. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Eget dolor morbi non arcu. Volutpat est velit egestas dui id ornare arcu. Orci porta non pulvinar neque laoreet suspendisse interdum. Odio euismod lacinia at quis risus. Iaculis nunc sed augue lacus viverra. Suspendisse in est ante in nibh mauris cursus. Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Non odio euismod lacinia at quis risus sed vulputate. Semper viverra nam libero justo. Amet cursus sit amet dictum sit.
