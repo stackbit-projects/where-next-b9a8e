@@ -77,7 +77,7 @@ sections:
         content: >-
           Study in a Canadian College gave me the opportunity to immigrate to
           Canada.
-      - author: Deegan Wallace
+      - author: Wallace Gomes
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
