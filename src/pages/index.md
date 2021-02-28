@@ -68,7 +68,7 @@ sections:
     col_number: three
     testimonials:
       - author: Isabella Rezende
-        avatar: images/sean_salazar.jpg
+        avatar: images/Slide-1.jpg
         avatar_alt: Sean Salazar's photo
         content: "I had an amazing time during my high school program. I met a lot of great people,\_ learn a new language, and enjoyed the Canadian culture at most."
       - author: Aubrey Hoover
