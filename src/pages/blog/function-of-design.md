@@ -42,10 +42,10 @@ template: post
 excerpt: >-
   Located on the southern banks of the Ottawa River in the province of Ontario,
   Ottawa is the capital of Canada and one of the largest cities in the country.
-  Close to the bo Ottawa is one of the best Canadian cities to live in, being a
-  modern destination, with great educational institutions and a high quality of
-  life. It is not by chance that the city attracts many tourists and foreign
-  visitors, many of whom are interested in establishing residence there.
+  Ottawa is one of the best Canadian cities to live in, being a modern
+  destination, with great educational institutions and a high quality of life.
+  It is not by chance that the city attracts many tourists and foreign visitors,
+  many of whom are interested in establishing residence there.
 ---
 ###### Located on the southern banks of the Ottawa River in the province of Ontario, Ottawa is the capital of Canada and one of the largest cities in the country. Ottawa is one of the best Canadian cities to live in, being a modern destination, with great educational institutions and high quality of life. It is not by chance that the city attracts many tourists and foreign visitors, many of whom are interested in establishing residence there.
 
