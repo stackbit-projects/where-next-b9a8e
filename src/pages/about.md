@@ -31,11 +31,10 @@ seo:
       relativeUrl: true
 template: page
 ---
+We are an agency formed by a team that has the experience, experience, and knowledge about studying and traveling abroad. We do a complete consultancy for our clients, understanding their objectives and presenting a personalized service for each one of them. The schools we work with are chosen after a rigorous selection and with good student evaluations, always seeking recognition for the quality of the courses we offer and thus guaranteeing satisfaction and the investment made. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Our customers will be able to count on all the support and dedication of our team, from the choice of the course, relevant information, and accompaniment during the entire period of the exchange or leisure trip.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+*Thank You for choosing us!*
