@@ -6,7 +6,7 @@ excerpt: >-
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
   nam libero justo laoreet sit.
 date: '2018-01-11'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/pexels-jaime-reimer-2662116.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
