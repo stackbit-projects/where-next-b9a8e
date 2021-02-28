@@ -36,5 +36,4 @@ template: project
 ---
 Collect the best stories around the world while saving on airfare. Unbeatable discounts await you!
 
-Contact us for a aquote!
-
+Contact us for a quote!
