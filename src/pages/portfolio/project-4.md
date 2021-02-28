@@ -1,6 +1,6 @@
 ---
 title: Hotels
-subtitle: Optional Project Subtitle
+subtitle: Best hotels price and location.
 date: '2019-02-26'
 thumb_image: images/pexels-pixabay-221457.jpg
 thumb_image_alt: A table tennis racket on a pink background
