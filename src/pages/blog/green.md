@@ -12,7 +12,7 @@ excerpt: >-
   the unique color of Lake Moraine. Another interesting thing is that in the
   summer the day goes on until 11 pm.
 date: '2018-01-11'
-thumb_image: images/pexels-jaime-reimer-2662116.jpg
+thumb_image: images/patrick-mcvey--rjc29yPMRk-unsplash.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
