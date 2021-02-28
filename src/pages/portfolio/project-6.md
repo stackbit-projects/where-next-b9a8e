@@ -2,7 +2,7 @@
 title: Group Vacations
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_image: images/bg-1.jpg
+thumb_image: images/pexels-roberto-nickson-2647973.jpg
 thumb_image_alt: A handheld game console on a yellow background
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
