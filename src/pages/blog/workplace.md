@@ -9,7 +9,7 @@ excerpt: >-
 date: '2019-03-24'
 thumb_image: images/pexels-adi-kavazovic-2382868.jpg
 thumb_image_alt: Vancouver
-image: images/11.jpg
+image: images/pexels-lukas-kloeppel-2416602.jpg
 image_alt: A leather notebook and a pen on a wooden working table
 seo:
   title: The Elements of Great Workplace Design
