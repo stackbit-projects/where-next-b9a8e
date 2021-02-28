@@ -15,10 +15,11 @@ sections:
       thus guaranteeing satisfaction and the investment made. Our customers will
       be able to count on all the support and dedication of our team, from the
       choice of the course, relevant information, and accompaniment during the
-      entire period of the exchange or leisure trip. 
+      entire period of the exchange or leisure trip.
 
 
-      ## ***Welcome to your next trip!***
+      ## ***                                                                  
+      Welcome to your next trip!***
     actions:
       - label: Let's talk
         url: /contact
