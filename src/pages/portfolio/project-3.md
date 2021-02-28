@@ -1,6 +1,6 @@
 ---
 title: Cruises
-subtitle: Cruises all over the world.
+subtitle: Cruises available all over the world.
 date: '2019-04-08'
 thumb_image: images/alonso-reyes-8NWFh8_i9Ug-unsplash.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
