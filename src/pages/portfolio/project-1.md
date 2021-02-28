@@ -1,6 +1,6 @@
 ---
 title: All Inclusive Vacations
-subtitle: Optional Project Subtitle
+subtitle: All Inclusive Vacations
 date: '2019-05-10'
 thumb_image: images/juan-rojas-XfZPhwf_BtI-unsplash.jpg
 thumb_image_alt: all inclusive vacation
