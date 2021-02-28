@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/alonso-reyes-8NWFh8_i9Ug-unsplash.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/pexels-andrea-piacquadio-3756166.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
