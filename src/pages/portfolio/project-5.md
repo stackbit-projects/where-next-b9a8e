@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: images/pexels-te-lensfix-1371360.jpg
 thumb_image_alt: woman in a boat
-image: images/5.jpg
+image: images/pexels-alex-azabache-3250364.jpg
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
