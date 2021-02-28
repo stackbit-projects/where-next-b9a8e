@@ -1,6 +1,6 @@
 ---
 title: Car Rental
-subtitle: Optional Project Subtitle
+subtitle: Find the car rental best rates.
 date: '2018-01-15'
 thumb_image: images/7_thumb.jpg
 thumb_image_alt: A black headphones on a yeallow background
