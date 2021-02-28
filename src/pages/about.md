@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: Travel and Study with Where Next!
-image: images/pic02.jpg
+image: images/pic03.jpg
 image_alt: A man taking a picture
 seo:
   title: About Us
