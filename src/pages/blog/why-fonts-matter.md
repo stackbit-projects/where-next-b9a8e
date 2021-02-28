@@ -45,7 +45,7 @@ excerpt: >-
   Especially for those who are not afraid of heights or want to face that fear.
   With a height of over 500 m, it is possible not only to walk outside the
   tower, but also to hang from it.
-subtitle: The biggest city in Canada!
+subtitle: The biggest city in Canada.
 ---
 Canada is the best country in the world in terms of quality of life and the second-best country in the world in terms of economic growth. Toronto, as Canada's largest city, is the ideal combination of urban life and natural beauty. If you enjoy nature, there are many places to visit in Toronto. The city has access to the stunning Lake Ontario as well as pristine conservation areas that will melt every nature lover's heart.
 
