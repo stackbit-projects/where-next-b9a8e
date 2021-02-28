@@ -73,5 +73,6 @@
         ]
     },
     "title": "Stackbit Exto Theme",
-    "domain": "https://where-next-b9a8e.netlify.app"
+    "domain": "https://where-next-b9a8e.netlify.app",
+    "favicon": "images/gatsby-icon.png"
 }
