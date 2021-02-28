@@ -50,9 +50,15 @@ sections:
           practical and career-oriented. These professional courses are a very
           interesting choice for those who already have a good level of English.
       - title: Insurance
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Studying in another country can be both inspiring and satisfying.
+          Traveling to a foreign country, on the other hand, can present
+          unexpected difficulties, ranging from the basic complications of a new
+          diet to an unexpected illness or injury, or even a more serious
+          accident while away from home. Unexpected medical costs will place you
+          in a financial bind, and they can even force you to postpone your trip
+          abroad. Health insurance is a must, especially when travelling abroad
+          for an extended period of time.
     subtitle: >-
       We do a complete consultancy for our clients, understanding their
       objectives and presenting a personalized service for each one of them.
