@@ -72,7 +72,7 @@ sections:
         avatar_alt: Sean Salazar's photo
         content: "I had an amazing time during my high school program. I met a lot of great people,\_ learn a new language, and enjoyed the Canadian culture at most."
       - author: Joana Amaral
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/gatsby-icon.png
         avatar_alt: Aubrey Hoover's photo
         content: >-
           Study in a Canadian College gave me the opportunity to immigrate to
