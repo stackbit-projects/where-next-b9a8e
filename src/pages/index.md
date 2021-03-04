@@ -98,7 +98,7 @@ seo:
   title: Where Next
   description: >-
     Study & Travel Abroad Agency, specialized in Canada. Language courses, High
-    school, colleges, all-inclusive vacations, airline tickets, hotels, and
+    school, Colleges, all-inclusive vacations, airline tickets, hotels, and
     more.
   extra:
     - name: 'og:type'
