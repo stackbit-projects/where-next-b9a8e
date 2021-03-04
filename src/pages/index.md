@@ -96,7 +96,10 @@ sections:
         style: button
 seo:
   title: Where Next
-  description: The preview of the Exto theme
+  description: >-
+    Study & Travel Abroad Agency, specialized in Canada. Language courses, High
+    school, colleges, all-inclusive vacations, airline tickets, hotels, and
+    more.
   extra:
     - name: 'og:type'
       value: website
