@@ -5,7 +5,9 @@ image: images/capturing-the-human-heart-TrhLCn1abMU-unsplash.jpg
 image_alt: world globe
 seo:
   title: About Us
-  description: This is the about us page
+  description: >-
+    Travel and Study with Where Next. Caribbean, Canada, USA, Europe, Australia,
+    New Zealand, Brazil, South America. Around the world trips.
   extra:
     - name: 'og:type'
       value: website
